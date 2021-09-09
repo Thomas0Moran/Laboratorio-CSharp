@@ -10,7 +10,7 @@ namespace Laboratorio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cadena de Caracteres");
+            Console.WriteLine("----Cadena de Caracteres----");
             Console.WriteLine("Ejercicios:");
             Console.WriteLine("A");
             string Palabra_1 = "Hola";
@@ -18,12 +18,12 @@ namespace Laboratorio
             string Frase = "";
             Console.WriteLine(Palabra_1);//Hola
             Console.WriteLine(Palabra_2);//Mundo
-            Console.WriteLine(Frase);//*vacio*
+            Console.WriteLine("");
 
             Console.WriteLine("B");
             Console.WriteLine(Palabra_1 + Palabra_2);//HolaMundo
             Console.WriteLine(Palabra_2 + Palabra_1);//MundoHola
-            Console.WriteLine(Palabra_1 + Frase + Palabra_2);//Hola Mundo
+            
 
             Console.ReadKey();
 

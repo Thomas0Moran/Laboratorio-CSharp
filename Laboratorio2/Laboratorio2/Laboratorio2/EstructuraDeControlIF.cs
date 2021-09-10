@@ -82,10 +82,10 @@ namespace Laboratorio2
             Console.WriteLine("Ingrese su opcion:");
             Console.WriteLine("1-Suma");
             Console.WriteLine("2-Resta");
-            Console.WriteLine("3-Multiplicacion");
-            Console.WriteLine("4-Division");
+            Console.WriteLine("3-Multiplicación");
+            Console.WriteLine("4-División");
             Console.WriteLine("");
-            Console.WriteLine("Opcion: *");
+            Console.WriteLine("Opcion:");
             opcion = Int32.Parse(Console.ReadLine());
 
             switch(opcion)

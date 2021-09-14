@@ -1,0 +1,7 @@
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\Laboratorio4.exe.config
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\Laboratorio4.exe
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\bin\Debug\Laboratorio4.pdb
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\Laboratorio4.csproj.AssemblyReference.cache
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\Laboratorio4.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\Laboratorio4.exe
+D:\PV\Laboratorio1-CSharp1\Laboratorio4\Laboratorio4\Laboratorio4\obj\Debug\Laboratorio4.pdb
